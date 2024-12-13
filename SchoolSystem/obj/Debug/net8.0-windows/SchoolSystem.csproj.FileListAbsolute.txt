@@ -1,0 +1,114 @@
+F:\политех\2024-2025\Школа alena_ssh\SchoolSystem\SchoolSystem\bin\Debug\net8.0-windows\SchoolSystem.exe
+F:\политех\2024-2025\Школа alena_ssh\SchoolSystem\SchoolSystem\bin\Debug\net8.0-windows\SchoolSystem.deps.json
+F:\политех\2024-2025\Школа alena_ssh\SchoolSystem\SchoolSystem\bin\Debug\net8.0-windows\SchoolSystem.runtimeconfig.json
+F:\политех\2024-2025\Школа alena_ssh\SchoolSystem\SchoolSystem\bin\Debug\net8.0-windows\SchoolSystem.dll
+F:\политех\2024-2025\Школа alena_ssh\SchoolSystem\SchoolSystem\bin\Debug\net8.0-windows\SchoolSystem.pdb
+F:\политех\2024-2025\Школа alena_ssh\SchoolSystem\SchoolSystem\bin\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
+F:\политех\2024-2025\Школа alena_ssh\SchoolSystem\SchoolSystem\bin\Debug\net8.0-windows\Google.Protobuf.dll
+F:\политех\2024-2025\Школа alena_ssh\SchoolSystem\SchoolSystem\bin\Debug\net8.0-windows\Guna.UI2.dll
+F:\политех\2024-2025\Школа alena_ssh\SchoolSystem\SchoolSystem\bin\Debug\net8.0-windows\K4os.Compression.LZ4.dll
+F:\политех\2024-2025\Школа alena_ssh\SchoolSystem\SchoolSystem\bin\Debug\net8.0-windows\K4os.Compression.LZ4.Streams.dll
+F:\политех\2024-2025\Школа alena_ssh\SchoolSystem\SchoolSystem\bin\Debug\net8.0-windows\K4os.Hash.xxHash.dll
+F:\политех\2024-2025\Школа alena_ssh\SchoolSystem\SchoolSystem\bin\Debug\net8.0-windows\MySql.Data.dll
+F:\политех\2024-2025\Школа alena_ssh\SchoolSystem\SchoolSystem\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+F:\политех\2024-2025\Школа alena_ssh\SchoolSystem\SchoolSystem\bin\Debug\net8.0-windows\System.Management.dll
+F:\политех\2024-2025\Школа alena_ssh\SchoolSystem\SchoolSystem\bin\Debug\net8.0-windows\ZstdSharp.dll
+F:\политех\2024-2025\Школа alena_ssh\SchoolSystem\SchoolSystem\bin\Debug\net8.0-windows\runtimes\win-x64\native\comerr64.dll
+F:\политех\2024-2025\Школа alena_ssh\SchoolSystem\SchoolSystem\bin\Debug\net8.0-windows\runtimes\win-x64\native\gssapi64.dll
+F:\политех\2024-2025\Школа alena_ssh\SchoolSystem\SchoolSystem\bin\Debug\net8.0-windows\runtimes\win-x64\native\k5sprt64.dll
+F:\политех\2024-2025\Школа alena_ssh\SchoolSystem\SchoolSystem\bin\Debug\net8.0-windows\runtimes\win-x64\native\krb5_64.dll
+F:\политех\2024-2025\Школа alena_ssh\SchoolSystem\SchoolSystem\bin\Debug\net8.0-windows\runtimes\win-x64\native\krbcc64.dll
+F:\политех\2024-2025\Школа alena_ssh\SchoolSystem\SchoolSystem\bin\Debug\net8.0-windows\runtimes\win\lib\net7.0\System.Management.dll
+F:\политех\2024-2025\Школа alena_ssh\SchoolSystem\SchoolSystem\obj\Debug\net8.0-windows\SchoolSystem.csproj.AssemblyReference.cache
+F:\политех\2024-2025\Школа alena_ssh\SchoolSystem\SchoolSystem\obj\Debug\net8.0-windows\SchoolSystem.FormBallStudent.resources
+F:\политех\2024-2025\Школа alena_ssh\SchoolSystem\SchoolSystem\obj\Debug\net8.0-windows\SchoolSystem.FormEditBall.resources
+F:\политех\2024-2025\Школа alena_ssh\SchoolSystem\SchoolSystem\obj\Debug\net8.0-windows\SchoolSystem.FormMain.resources
+F:\политех\2024-2025\Школа alena_ssh\SchoolSystem\SchoolSystem\obj\Debug\net8.0-windows\SchoolSystem.Properties.Resources.resources
+F:\политех\2024-2025\Школа alena_ssh\SchoolSystem\SchoolSystem\obj\Debug\net8.0-windows\SchoolSystem.csproj.GenerateResource.cache
+F:\политех\2024-2025\Школа alena_ssh\SchoolSystem\SchoolSystem\obj\Debug\net8.0-windows\SchoolSystem.GeneratedMSBuildEditorConfig.editorconfig
+F:\политех\2024-2025\Школа alena_ssh\SchoolSystem\SchoolSystem\obj\Debug\net8.0-windows\SchoolSystem.AssemblyInfoInputs.cache
+F:\политех\2024-2025\Школа alena_ssh\SchoolSystem\SchoolSystem\obj\Debug\net8.0-windows\SchoolSystem.AssemblyInfo.cs
+F:\политех\2024-2025\Школа alena_ssh\SchoolSystem\SchoolSystem\obj\Debug\net8.0-windows\SchoolSystem.csproj.CoreCompileInputs.cache
+F:\политех\2024-2025\Школа alena_ssh\SchoolSystem\SchoolSystem\obj\Debug\net8.0-windows\SchoolSy.0567E2FD.Up2Date
+F:\политех\2024-2025\Школа alena_ssh\SchoolSystem\SchoolSystem\obj\Debug\net8.0-windows\SchoolSystem.dll
+F:\политех\2024-2025\Школа alena_ssh\SchoolSystem\SchoolSystem\obj\Debug\net8.0-windows\refint\SchoolSystem.dll
+F:\политех\2024-2025\Школа alena_ssh\SchoolSystem\SchoolSystem\obj\Debug\net8.0-windows\SchoolSystem.pdb
+F:\политех\2024-2025\Школа alena_ssh\SchoolSystem\SchoolSystem\obj\Debug\net8.0-windows\SchoolSystem.genruntimeconfig.cache
+F:\политех\2024-2025\Школа alena_ssh\SchoolSystem\SchoolSystem\obj\Debug\net8.0-windows\ref\SchoolSystem.dll
+F:\политех\2024-2025\Школа alena_ssh\SchoolSystem\SchoolSystem\obj\Debug\net8.0-windows\SchoolSystem.FormAttendanceStudent.resources
+F:\политех\2024-2025\Школа alena_ssh\SchoolSystem\SchoolSystem\obj\Debug\net8.0-windows\SchoolSystem.FormEditAttendanceStudent.resources
+F:\политех\2024-2025\Школа alena_ssh\SchoolSystem\SchoolSystem\obj\Debug\net8.0-windows\SchoolSystem.FormEditHomework.resources
+F:\политех\2024-2025\Школа alena_ssh\SchoolSystem\SchoolSystem\obj\Debug\net8.0-windows\SchoolSystem.FormHomework.resources
+F:\политех\2024-2025\Школа alena_ssh\SchoolSystem\SchoolSystem\obj\Debug\net8.0-windows\SchoolSystem.FormLogin.resources
+F:\политех\2024-2025\Школа alena_ssh\SchoolSystem\SchoolSystem\bin\Debug\net8.0-windows\EPPlus.dll
+F:\политех\2024-2025\Школа alena_ssh\SchoolSystem\SchoolSystem\bin\Debug\net8.0-windows\EPPlus.Interfaces.dll
+F:\политех\2024-2025\Школа alena_ssh\SchoolSystem\SchoolSystem\bin\Debug\net8.0-windows\EPPlus.System.Drawing.dll
+F:\политех\2024-2025\Школа alena_ssh\SchoolSystem\SchoolSystem\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.dll
+F:\политех\2024-2025\Школа alena_ssh\SchoolSystem\SchoolSystem\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+F:\политех\2024-2025\Школа alena_ssh\SchoolSystem\SchoolSystem\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+F:\политех\2024-2025\Школа alena_ssh\SchoolSystem\SchoolSystem\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Json.dll
+F:\политех\2024-2025\Школа alena_ssh\SchoolSystem\SchoolSystem\bin\Debug\net8.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+F:\политех\2024-2025\Школа alena_ssh\SchoolSystem\SchoolSystem\bin\Debug\net8.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+F:\политех\2024-2025\Школа alena_ssh\SchoolSystem\SchoolSystem\bin\Debug\net8.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+F:\политех\2024-2025\Школа alena_ssh\SchoolSystem\SchoolSystem\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+F:\политех\2024-2025\Школа alena_ssh\SchoolSystem\SchoolSystem\bin\Debug\net8.0-windows\Microsoft.IO.RecyclableMemoryStream.dll
+F:\политех\2024-2025\Школа alena_ssh\SchoolSystem\SchoolSystem\bin\Debug\net8.0-windows\System.Drawing.Common.dll
+F:\политех\2024-2025\Школа alena_ssh\SchoolSystem\SchoolSystem\bin\Debug\net8.0-windows\System.Security.Cryptography.Pkcs.dll
+F:\политех\2024-2025\Школа alena_ssh\SchoolSystem\SchoolSystem\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\Пользователь\Desktop\Учеба\Школа alena_ssh\Школа alena_ssh\SchoolSystem\SchoolSystem\bin\Debug\net8.0-windows\SchoolSystem.exe
+C:\Users\Пользователь\Desktop\Учеба\Школа alena_ssh\Школа alena_ssh\SchoolSystem\SchoolSystem\bin\Debug\net8.0-windows\SchoolSystem.deps.json
+C:\Users\Пользователь\Desktop\Учеба\Школа alena_ssh\Школа alena_ssh\SchoolSystem\SchoolSystem\bin\Debug\net8.0-windows\SchoolSystem.runtimeconfig.json
+C:\Users\Пользователь\Desktop\Учеба\Школа alena_ssh\Школа alena_ssh\SchoolSystem\SchoolSystem\bin\Debug\net8.0-windows\SchoolSystem.dll
+C:\Users\Пользователь\Desktop\Учеба\Школа alena_ssh\Школа alena_ssh\SchoolSystem\SchoolSystem\bin\Debug\net8.0-windows\SchoolSystem.pdb
+C:\Users\Пользователь\Desktop\Учеба\Школа alena_ssh\Школа alena_ssh\SchoolSystem\SchoolSystem\bin\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\Пользователь\Desktop\Учеба\Школа alena_ssh\Школа alena_ssh\SchoolSystem\SchoolSystem\bin\Debug\net8.0-windows\EPPlus.dll
+C:\Users\Пользователь\Desktop\Учеба\Школа alena_ssh\Школа alena_ssh\SchoolSystem\SchoolSystem\bin\Debug\net8.0-windows\EPPlus.Interfaces.dll
+C:\Users\Пользователь\Desktop\Учеба\Школа alena_ssh\Школа alena_ssh\SchoolSystem\SchoolSystem\bin\Debug\net8.0-windows\EPPlus.System.Drawing.dll
+C:\Users\Пользователь\Desktop\Учеба\Школа alena_ssh\Школа alena_ssh\SchoolSystem\SchoolSystem\bin\Debug\net8.0-windows\Google.Protobuf.dll
+C:\Users\Пользователь\Desktop\Учеба\Школа alena_ssh\Школа alena_ssh\SchoolSystem\SchoolSystem\bin\Debug\net8.0-windows\Guna.UI2.dll
+C:\Users\Пользователь\Desktop\Учеба\Школа alena_ssh\Школа alena_ssh\SchoolSystem\SchoolSystem\bin\Debug\net8.0-windows\K4os.Compression.LZ4.dll
+C:\Users\Пользователь\Desktop\Учеба\Школа alena_ssh\Школа alena_ssh\SchoolSystem\SchoolSystem\bin\Debug\net8.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\Пользователь\Desktop\Учеба\Школа alena_ssh\Школа alena_ssh\SchoolSystem\SchoolSystem\bin\Debug\net8.0-windows\K4os.Hash.xxHash.dll
+C:\Users\Пользователь\Desktop\Учеба\Школа alena_ssh\Школа alena_ssh\SchoolSystem\SchoolSystem\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.dll
+C:\Users\Пользователь\Desktop\Учеба\Школа alena_ssh\Школа alena_ssh\SchoolSystem\SchoolSystem\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Пользователь\Desktop\Учеба\Школа alena_ssh\Школа alena_ssh\SchoolSystem\SchoolSystem\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\Пользователь\Desktop\Учеба\Школа alena_ssh\Школа alena_ssh\SchoolSystem\SchoolSystem\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\Пользователь\Desktop\Учеба\Школа alena_ssh\Школа alena_ssh\SchoolSystem\SchoolSystem\bin\Debug\net8.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Пользователь\Desktop\Учеба\Школа alena_ssh\Школа alena_ssh\SchoolSystem\SchoolSystem\bin\Debug\net8.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\Пользователь\Desktop\Учеба\Школа alena_ssh\Школа alena_ssh\SchoolSystem\SchoolSystem\bin\Debug\net8.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\Пользователь\Desktop\Учеба\Школа alena_ssh\Школа alena_ssh\SchoolSystem\SchoolSystem\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\Пользователь\Desktop\Учеба\Школа alena_ssh\Школа alena_ssh\SchoolSystem\SchoolSystem\bin\Debug\net8.0-windows\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\Пользователь\Desktop\Учеба\Школа alena_ssh\Школа alena_ssh\SchoolSystem\SchoolSystem\bin\Debug\net8.0-windows\MySql.Data.dll
+C:\Users\Пользователь\Desktop\Учеба\Школа alena_ssh\Школа alena_ssh\SchoolSystem\SchoolSystem\bin\Debug\net8.0-windows\System.Drawing.Common.dll
+C:\Users\Пользователь\Desktop\Учеба\Школа alena_ssh\Школа alena_ssh\SchoolSystem\SchoolSystem\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Users\Пользователь\Desktop\Учеба\Школа alena_ssh\Школа alena_ssh\SchoolSystem\SchoolSystem\bin\Debug\net8.0-windows\System.Management.dll
+C:\Users\Пользователь\Desktop\Учеба\Школа alena_ssh\Школа alena_ssh\SchoolSystem\SchoolSystem\bin\Debug\net8.0-windows\System.Security.Cryptography.Pkcs.dll
+C:\Users\Пользователь\Desktop\Учеба\Школа alena_ssh\Школа alena_ssh\SchoolSystem\SchoolSystem\bin\Debug\net8.0-windows\ZstdSharp.dll
+C:\Users\Пользователь\Desktop\Учеба\Школа alena_ssh\Школа alena_ssh\SchoolSystem\SchoolSystem\bin\Debug\net8.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\Пользователь\Desktop\Учеба\Школа alena_ssh\Школа alena_ssh\SchoolSystem\SchoolSystem\bin\Debug\net8.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\Пользователь\Desktop\Учеба\Школа alena_ssh\Школа alena_ssh\SchoolSystem\SchoolSystem\bin\Debug\net8.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\Пользователь\Desktop\Учеба\Школа alena_ssh\Школа alena_ssh\SchoolSystem\SchoolSystem\bin\Debug\net8.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\Пользователь\Desktop\Учеба\Школа alena_ssh\Школа alena_ssh\SchoolSystem\SchoolSystem\bin\Debug\net8.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\Пользователь\Desktop\Учеба\Школа alena_ssh\Школа alena_ssh\SchoolSystem\SchoolSystem\bin\Debug\net8.0-windows\runtimes\win\lib\net7.0\System.Management.dll
+C:\Users\Пользователь\Desktop\Учеба\Школа alena_ssh\Школа alena_ssh\SchoolSystem\SchoolSystem\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\Пользователь\Desktop\Учеба\Школа alena_ssh\Школа alena_ssh\SchoolSystem\SchoolSystem\obj\Debug\net8.0-windows\SchoolSystem.csproj.AssemblyReference.cache
+C:\Users\Пользователь\Desktop\Учеба\Школа alena_ssh\Школа alena_ssh\SchoolSystem\SchoolSystem\obj\Debug\net8.0-windows\SchoolSystem.FormAttendanceStudent.resources
+C:\Users\Пользователь\Desktop\Учеба\Школа alena_ssh\Школа alena_ssh\SchoolSystem\SchoolSystem\obj\Debug\net8.0-windows\SchoolSystem.FormBallStudent.resources
+C:\Users\Пользователь\Desktop\Учеба\Школа alena_ssh\Школа alena_ssh\SchoolSystem\SchoolSystem\obj\Debug\net8.0-windows\SchoolSystem.FormEditAttendanceStudent.resources
+C:\Users\Пользователь\Desktop\Учеба\Школа alena_ssh\Школа alena_ssh\SchoolSystem\SchoolSystem\obj\Debug\net8.0-windows\SchoolSystem.FormEditBall.resources
+C:\Users\Пользователь\Desktop\Учеба\Школа alena_ssh\Школа alena_ssh\SchoolSystem\SchoolSystem\obj\Debug\net8.0-windows\SchoolSystem.FormEditHomework.resources
+C:\Users\Пользователь\Desktop\Учеба\Школа alena_ssh\Школа alena_ssh\SchoolSystem\SchoolSystem\obj\Debug\net8.0-windows\SchoolSystem.FormHomework.resources
+C:\Users\Пользователь\Desktop\Учеба\Школа alena_ssh\Школа alena_ssh\SchoolSystem\SchoolSystem\obj\Debug\net8.0-windows\SchoolSystem.FormLogin.resources
+C:\Users\Пользователь\Desktop\Учеба\Школа alena_ssh\Школа alena_ssh\SchoolSystem\SchoolSystem\obj\Debug\net8.0-windows\SchoolSystem.FormMain.resources
+C:\Users\Пользователь\Desktop\Учеба\Школа alena_ssh\Школа alena_ssh\SchoolSystem\SchoolSystem\obj\Debug\net8.0-windows\SchoolSystem.Properties.Resources.resources
+C:\Users\Пользователь\Desktop\Учеба\Школа alena_ssh\Школа alena_ssh\SchoolSystem\SchoolSystem\obj\Debug\net8.0-windows\SchoolSystem.csproj.GenerateResource.cache
+C:\Users\Пользователь\Desktop\Учеба\Школа alena_ssh\Школа alena_ssh\SchoolSystem\SchoolSystem\obj\Debug\net8.0-windows\SchoolSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Пользователь\Desktop\Учеба\Школа alena_ssh\Школа alena_ssh\SchoolSystem\SchoolSystem\obj\Debug\net8.0-windows\SchoolSystem.AssemblyInfoInputs.cache
+C:\Users\Пользователь\Desktop\Учеба\Школа alena_ssh\Школа alena_ssh\SchoolSystem\SchoolSystem\obj\Debug\net8.0-windows\SchoolSystem.AssemblyInfo.cs
+C:\Users\Пользователь\Desktop\Учеба\Школа alena_ssh\Школа alena_ssh\SchoolSystem\SchoolSystem\obj\Debug\net8.0-windows\SchoolSystem.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\Desktop\Учеба\Школа alena_ssh\Школа alena_ssh\SchoolSystem\SchoolSystem\obj\Debug\net8.0-windows\SchoolSy.0567E2FD.Up2Date
+C:\Users\Пользователь\Desktop\Учеба\Школа alena_ssh\Школа alena_ssh\SchoolSystem\SchoolSystem\obj\Debug\net8.0-windows\SchoolSystem.dll
+C:\Users\Пользователь\Desktop\Учеба\Школа alena_ssh\Школа alena_ssh\SchoolSystem\SchoolSystem\obj\Debug\net8.0-windows\refint\SchoolSystem.dll
+C:\Users\Пользователь\Desktop\Учеба\Школа alena_ssh\Школа alena_ssh\SchoolSystem\SchoolSystem\obj\Debug\net8.0-windows\SchoolSystem.pdb
+C:\Users\Пользователь\Desktop\Учеба\Школа alena_ssh\Школа alena_ssh\SchoolSystem\SchoolSystem\obj\Debug\net8.0-windows\SchoolSystem.genruntimeconfig.cache
+C:\Users\Пользователь\Desktop\Учеба\Школа alena_ssh\Школа alena_ssh\SchoolSystem\SchoolSystem\obj\Debug\net8.0-windows\ref\SchoolSystem.dll

@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\u041F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\\Desktop\\\u0423\u0447\u0435\u0431\u0430\\\u0428\u043A\u043E\u043B\u0430 alena_ssh\\\u0428\u043A\u043E\u043B\u0430 alena_ssh\\SchoolSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1E7BE1EB-4C32-4590-A376-24AB7226CA75}|SchoolSystem\\SchoolSystem.csproj|c:\\users\\\u043F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\\desktop\\\u0443\u0447\u0435\u0431\u0430\\\u0448\u043A\u043E\u043B\u0430 alena_ssh\\\u0448\u043A\u043E\u043B\u0430 alena_ssh\\schoolsystem\\schoolsystem\\formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1E7BE1EB-4C32-4590-A376-24AB7226CA75}|SchoolSystem\\SchoolSystem.csproj|solutionrelative:schoolsystem\\formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 495,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FormMain.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "DocumentMoniker": "C:\\Users\\\u041F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\\Desktop\\\u0423\u0447\u0435\u0431\u0430\\\u0428\u043A\u043E\u043B\u0430 alena_ssh\\\u0428\u043A\u043E\u043B\u0430 alena_ssh\\SchoolSystem\\SchoolSystem\\FormMain.cs",
+              "RelativeDocumentMoniker": "SchoolSystem\\FormMain.cs",
+              "ToolTip": "C:\\Users\\\u041F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\\Desktop\\\u0423\u0447\u0435\u0431\u0430\\\u0428\u043A\u043E\u043B\u0430 alena_ssh\\\u0428\u043A\u043E\u043B\u0430 alena_ssh\\SchoolSystem\\SchoolSystem\\FormMain.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "RelativeToolTip": "SchoolSystem\\FormMain.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T07:53:28.475Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
